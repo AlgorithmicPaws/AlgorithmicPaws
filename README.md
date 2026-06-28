@@ -2,8 +2,8 @@
 [![](https://visitcount.itsvg.in/api?id=AlgorithmicPaws&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
-💻  Working on Web Development 
-<br>✍️  Learning React, VueJs, MongoDB
+💻  Working on Web Development and becoming a cloud enginner 
+<br>✍️  Learning Aws, Pyspark, MongoDB
 <br>🎓  Studying Computer Science and Engineering.
 <br>
 
